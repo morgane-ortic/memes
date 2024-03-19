@@ -8,6 +8,8 @@
 
 ![failed1](https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif)
 
+[failed2](https://media1.tenor.com/m/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif)
+
 
 ![memeOne](Untitled.jpeg)
 ![memeTwo](671f0707e0cd1b7157fd729f813b1a5b.jpg)
