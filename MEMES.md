@@ -21,3 +21,5 @@
 ![flower meme](./flower_meme.webp)
 
 ![css meme](./css.gif)
+![meme](./ITmemes.jpg)
+![meme](./dexter.webp)
