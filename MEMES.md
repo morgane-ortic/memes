@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 ![meme 1](./meme1.webp)
-![meme 1] (./meme2.jpg)
+![meme 1](./meme2.jpg)
 =======
 # MEMES for bored coders
 
